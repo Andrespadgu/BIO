@@ -1,6 +1,20 @@
-
-# Andres Felipe Padilla Guerrero
-Estudiante de Ciencia de datos 
+# Andrés Padilla Guerrero
 
 
-Universidad de la Sabana
+
+Universidad de La Sabana - Chía
+
+andrespadgu@unisabana.edu.co
+
+Ciencia de Datos
+
+## Interests
+
+- Machine Learning
+
+- Data Science
+
+
+## Contact
+
+**e-mail** andrespadgu@unisabana.edu.co
